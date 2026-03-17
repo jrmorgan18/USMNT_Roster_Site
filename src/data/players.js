@@ -12,7 +12,7 @@ export const players = [
   { id: 'slonina', name: 'Gabriel Slonina', position: 'GK', club: 'Chelsea', number: null, fotmobUrl: 'https://www.fotmob.com/players/1031220/gabriel-slonina' },
   { id: 'brady', name: 'Chris Brady', position: 'GK', club: 'Chicago Fire', number: null, fotmobUrl: 'https://www.fotmob.com/players/1245998/chris-brady' },
   { id: 'kochen', name: 'Diego Kochen', position: 'GK', club: 'FC Barcelona', number: 31, fotmobUrl: 'https://www.fotmob.com/players/1529648/diego-kochen' },
-  { id: 'celentano', name: 'Roman Celentano', position: 'GK', club: 'FC Cincinnati', number: null, fotmobUrl: 'https://www.fotmob.com/players/1136265/roman-celentano' },
+  { id: 'celentano', name: 'Roman Celentano', position: 'GK', club: 'FC Cincinnati', number: null, fotmobUrl: 'https://www.fotmob.com/players/1337962/roman-celentano' },
 
   // ===== DEFENDERS =====
   { id: 'dest', name: 'Sergiño Dest', position: 'DEF', club: 'PSV', number: 2, fotmobUrl: 'https://www.fotmob.com/players/892816/sergino-dest' },
