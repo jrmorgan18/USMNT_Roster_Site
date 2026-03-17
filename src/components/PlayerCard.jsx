@@ -3,7 +3,7 @@ import { useState } from 'react'
 const PLAYERS_WITH_PHOTOS = new Set([
   // GK
   'turner', 'steffen', 'horvath', 'freese', 'schulte', 'callender', 'brady',
-  'kochen',
+  'kochen', 'celentano',
   // DEF
   'dest', 'scally', 'robinson_a', 'richards', 'carter_vickers', 'trusty', 'ream',
   'zimmerman', 'miles_robinson', 'mckenzie', 'tolkin', 'wiley', 'harriel',
