@@ -59,6 +59,7 @@ export const players = [
   { id: 'luna', name: 'Diego Luna', position: 'MID', club: 'Real Salt Lake', number: null, fotmobUrl: 'https://www.fotmob.com/players/1252636/diego-luna' },
   { id: 'gutierrez', name: 'Brian Gutiérrez', position: 'MID', club: 'CD Guadalajara (Chivas)', number: null, fotmobUrl: 'https://www.fotmob.com/players/1170238/brian-gutierrez' },
   { id: 'eneli', name: 'Emeka Eneli', position: 'MID', club: 'Real Salt Lake', number: null, fotmobUrl: 'https://www.fotmob.com/players/1440013/emeka-eneli' },
+  { id: 'gozo', name: 'Zavier Gozo', position: 'MID', club: 'Real Salt Lake', number: 19, fotmobUrl: 'https://www.fotmob.com/players/1455818/zavier-gozo' },
   { id: 'vassilev', name: 'Indiana Vassilev', position: 'MID', club: 'Philadelphia Union', number: null, fotmobUrl: 'https://www.fotmob.com/players/1101144/indiana-vassilev' },
   { id: 'miljevic', name: 'Matko Miljevic', position: 'MID', club: 'Racing', number: null, fotmobUrl: 'https://www.fotmob.com/players/981079/matko-miljevic' },
   { id: 'sullivan', name: 'Quinn Sullivan', position: 'MID', club: 'Philadelphia Union', number: null, fotmobUrl: 'https://www.fotmob.com/players/1171007/quinn-sullivan' },
