@@ -87,7 +87,7 @@ function buildFormationText(formation, startingXI, formationPositions) {
 
 export function shareRosterToX(selectedPlayers) {
   const text = buildRosterText(selectedPlayers, {
-    prefix: 'My USMNT 2026 World Cup 26-Man Roster:\n',
+    prefix: 'My USMNT Project 2030 26-Man Roster:\n',
     bold: false,
   })
   openTwitterIntent(text)
@@ -108,7 +108,7 @@ function openTwitterIntent(text) {
 
 export function shareRosterToBluesky(selectedPlayers) {
   const text = buildRosterText(selectedPlayers, {
-    prefix: 'My USMNT 2026 World Cup 26-Man Roster:\n',
+    prefix: 'My USMNT Project 2030 26-Man Roster:\n',
     bold: false,
   })
   openBlueskyIntent(text)
@@ -129,7 +129,7 @@ function openBlueskyIntent(text) {
 
 export async function shareRosterToDiscord(selectedPlayers) {
   const text = buildRosterText(selectedPlayers, {
-    prefix: '## :us: My USMNT 2026 World Cup 26-Man Roster\n',
+    prefix: '## :us: My USMNT Project 2030 26-Man Roster\n',
     bold: true,
   })
   return copyToClipboard(text)

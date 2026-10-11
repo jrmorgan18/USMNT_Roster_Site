@@ -1,18 +1,11 @@
 import { useState } from 'react'
 import FormationPicker from './FormationPicker'
 import PitchView from './PitchView'
+import PlayerAvatar from './PlayerAvatar'
+import PlayerScores from './PlayerScores'
 import { players } from '../data/players'
 import { formations } from '../data/formations'
 import { shareStartingXIToX, shareStartingXIToBluesky, shareStartingXIToDiscord } from '../utils/shareToX'
-
-function getInitials(name) {
-  return name
-    .split(' ')
-    .map((w) => w[0])
-    .join('')
-    .toUpperCase()
-    .slice(0, 2)
-}
 
 // Maps a formation slot role to a priority-ordered list of player positions
 function getPositionOrder(role) {
@@ -141,10 +134,8 @@ export default function StartingXI({ selectedIds, startingXI, setStartingXI, for
                   key={p.id}
                   className={`sidebar-player ${xiPlayerIds.has(p.id) ? 'in-xi' : ''}`}
                 >
-                  <div className={`mini-avatar ${p.position.toLowerCase()}`}>
-                    {getInitials(p.name)}
-                  </div>
-                  <span>{p.name}</span>
+                  <PlayerAvatar player={p} small />
+                  <span className="sidebar-player-copy">{p.name}<PlayerScores player={p} compact /></span>
                 </div>
               ))}
             </div>
@@ -156,10 +147,8 @@ export default function StartingXI({ selectedIds, startingXI, setStartingXI, for
             <h4>Bench ({benchPlayers.length})</h4>
             {benchPlayers.map((p) => (
               <div key={p.id} className="sidebar-player">
-                <div className={`mini-avatar ${p.position.toLowerCase()}`}>
-                  {getInitials(p.name)}
-                </div>
-                <span>{p.name}</span>
+                <PlayerAvatar player={p} small />
+                  <span className="sidebar-player-copy">{p.name}<PlayerScores player={p} compact /></span>
               </div>
             ))}
           </div>
@@ -186,13 +175,8 @@ export default function StartingXI({ selectedIds, startingXI, setStartingXI, for
                       className={`modal-player-btn ${xiPlayerIds.has(p.id) && startingXI[pickerSlot]?.id !== p.id ? 'in-xi' : ''}`}
                       onClick={() => handlePickPlayer(p)}
                     >
-                      <div
-                        className={`mini-avatar ${p.position.toLowerCase()}`}
-                        style={{ width: 24, height: 24, fontSize: '0.55rem' }}
-                      >
-                        {getInitials(p.name)}
-                      </div>
-                      {p.name}
+                      <PlayerAvatar player={p} small />
+                      <span className="sidebar-player-copy">{p.name}<PlayerScores player={p} compact /></span>
                     </button>
                   ))}
                 </div>

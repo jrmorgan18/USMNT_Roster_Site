@@ -732,3 +732,30 @@
     font-size: 0.75rem;
   }
 }
+
+/* Project 2030 pool and scores */
+.board-context { max-width:1100px; width:100%; margin:0 auto; padding:24px 24px 18px; text-align:center; }
+.board-context p { max-width:720px; margin:0 auto; }
+.board-context nav { display:flex; flex-wrap:wrap; justify-content:center; gap:12px 28px; margin:12px 0; }
+.board-context a { color:#b7d9ff; text-underline-offset:4px; }
+.board-context small { color:var(--text-secondary); }
+.player-card-toggle { border:0; background:none; color:inherit; display:flex; flex-direction:column; align-items:center; gap:6px; width:100%; flex:1; padding:0; font:inherit; text-align:center; }
+.player-card-toggle:focus-visible { outline:2px solid #ffd700; outline-offset:6px; border-radius:4px; }
+.player-board-rank { color:var(--text-secondary); font-size:.7rem; align-self:flex-start; }
+.player-league { font-size:.65rem; color:var(--text-secondary); }
+.player-scores { display:flex; gap:16px; justify-content:center; width:100%; margin-top:auto; padding-top:10px; }
+.player-scores > span { display:flex; flex-direction:column; gap:2px; }
+.player-scores small { color:var(--text-secondary); font-size:.65rem; font-weight:500; }
+.player-scores strong { font-size:1.05rem; font-variant-numeric:tabular-nums; }
+.player-scores > span:last-child strong { color:#9cdbb4; }
+.player-scores--compact { width:auto; justify-content:flex-start; gap:12px; padding-top:2px; }
+.player-scores--compact > span { flex-direction:row; align-items:baseline; gap:4px; }
+.player-scores--compact strong { font-size:.72rem; }
+.mini-avatar-img { width:32px; height:32px; object-fit:contain; border-radius:50%; flex-shrink:0; background:#e3ebf4; }
+.sidebar-player-copy { min-width:0; text-align:left; flex:1; }
+.sort-label { display:flex; align-items:center; gap:8px; font-size:.8rem; color:var(--text-secondary); }
+.sort-label select { background:var(--dark-surface); color:white; border:1px solid var(--dark-border); border-radius:20px; padding:8px 12px; font:inherit; }
+.pool-count { color:var(--text-secondary); font-size:.8rem; margin-top:12px; }
+.selected-chip { flex-wrap:wrap; }
+.selected-chip .player-scores { order:2; width:100%; }
+@media(max-width:480px) { .main-content { padding:16px 12px; } .player-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } .player-name { overflow-wrap:anywhere; } .filter-bar { gap:8px; } .search-input { flex:1; min-width:170px; } .header { padding:16px 12px; gap:12px; } .header-text h1 { font-size:1.1rem; } .header-crest { width:38px; height:38px; } .player-scores { gap:12px; } }
