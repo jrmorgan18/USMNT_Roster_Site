@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import PlayerPool from './PlayerPool'
+import PlayerScores from './PlayerScores'
 import { players } from '../data/players'
 import { shareRosterToX, shareRosterToBluesky, shareRosterToDiscord } from '../utils/shareToX'
 
@@ -83,6 +84,7 @@ export default function RosterBuilder({ selectedIds, onToggle }) {
                     {list.map((p) => (
                       <span key={p.id} className="selected-chip">
                         {p.name}
+                        <PlayerScores player={p} compact />
                         <button
                           className="remove-btn"
                           onClick={() => onToggle(p.id)}

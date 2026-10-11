@@ -1,0 +1,382 @@
+{
+  "antonee-robinson": {
+    "id": "robinson_a",
+    "photo": "players/antonee-robinson.png",
+    "fotmobUrl": "https://www.fotmob.com/players/662428/antonee-robinson"
+  },
+  "weston-mckennie": {
+    "id": "mckennie",
+    "photo": "players/weston-mckennie.png",
+    "fotmobUrl": "https://www.fotmob.com/players/848266/weston-mckennie"
+  },
+  "chris-richards": {
+    "id": "richards",
+    "photo": "players/chris-richards.png",
+    "fotmobUrl": "https://www.fotmob.com/players/950829/chris-richards"
+  },
+  "christian-pulisic": {
+    "id": "pulisic",
+    "photo": "players/christian-pulisic.png",
+    "fotmobUrl": "https://www.fotmob.com/players/688295/christian-pulisic"
+  },
+  "folarin-balogun": {
+    "id": "balogun",
+    "photo": "players/folarin-balogun.png",
+    "fotmobUrl": "https://www.fotmob.com/players/982677/folarin-balogun"
+  },
+  "malik-tillman": {
+    "id": "tillman_m",
+    "photo": "players/malik-tillman.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1126058/malik-tillman"
+  },
+  "tyler-adams": {
+    "id": "adams",
+    "photo": "players/tyler-adams.png",
+    "fotmobUrl": "https://www.fotmob.com/players/729769/tyler-adams"
+  },
+  "tim-weah": {
+    "id": "weah",
+    "photo": "players/tim-weah.png",
+    "fotmobUrl": "https://www.fotmob.com/players/889536/timothy-weah"
+  },
+  "alex-freeman": {
+    "id": "freeman",
+    "photo": "players/alex-freeman.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1338696/alex-freeman"
+  },
+  "haji-wright": {
+    "id": "wright",
+    "photo": "players/haji-wright.png",
+    "fotmobUrl": "https://www.fotmob.com/players/848268/haji-wright"
+  },
+  "joe-scally": {
+    "id": "scally",
+    "photo": "players/joe-scally.png",
+    "fotmobUrl": "https://www.fotmob.com/players/959696/joseph-scally"
+  },
+  "matt-turner": {
+    "id": "turner",
+    "photo": "players/matt-turner.png",
+    "fotmobUrl": "https://www.fotmob.com/players/729988/matt-turner"
+  },
+  "sebastian-berhalter": {
+    "id": "berhalter_s",
+    "photo": "players/sebastian-berhalter.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1136096/sebastian-berhalter"
+  },
+  "brenden-aaronson": {
+    "id": "aaronson_b",
+    "photo": "players/brenden-aaronson.png",
+    "fotmobUrl": "https://www.fotmob.com/players/952322/brenden-aaronson"
+  },
+  "mark-mckenzie": {
+    "id": "mckenzie",
+    "photo": "players/mark-mckenzie.png",
+    "fotmobUrl": "https://www.fotmob.com/players/782881/mark-mckenzie"
+  },
+  "sergino-dest": {
+    "id": "dest",
+    "photo": "players/sergino-dest.png",
+    "fotmobUrl": "https://www.fotmob.com/players/892816/sergino-dest"
+  },
+  "ricardo-pepi": {
+    "id": "pepi",
+    "photo": "players/ricardo-pepi.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1036401/ricardo-pepi"
+  },
+  "alejandro-zendejas": {
+    "id": "zendejas",
+    "photo": "players/alejandro-zendejas.png",
+    "fotmobUrl": "https://www.fotmob.com/players/621882/alex-zendejas"
+  },
+  "matt-freese": {
+    "id": "freese",
+    "photo": "players/matt-freese.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1026065/matt-freese"
+  },
+  "johnny-cardoso": {
+    "id": "cardoso",
+    "photo": "players/johnny-cardoso.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1173678/johnny-cardoso"
+  },
+  "tim-ream": {
+    "id": "ream",
+    "photo": "players/tim-ream.png",
+    "fotmobUrl": "https://www.fotmob.com/players/198444/tim-ream"
+  },
+  "auston-trusty": {
+    "id": "trusty",
+    "photo": "players/auston-trusty.png",
+    "fotmobUrl": "https://www.fotmob.com/players/688271/auston-trusty"
+  },
+  "miles-robinson": {
+    "id": "miles_robinson",
+    "photo": "players/miles-robinson.png",
+    "fotmobUrl": "https://www.fotmob.com/players/825623/miles-robinson"
+  },
+  "aidan-morris": {
+    "id": "morris_a",
+    "photo": "players/aidan-morris.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1136097/aidan-morris"
+  },
+  "neil-pierre": {
+    "id": "neil-pierre",
+    "photo": "players/neil-pierre.png",
+    "fotmobUrl": null
+  },
+  "chris-brady": {
+    "id": "brady",
+    "photo": "players/chris-brady.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1245998/chris-brady"
+  },
+  "max-arfsten": {
+    "id": "arfsten",
+    "photo": "players/max-arfsten.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1348329/max-arfsten"
+  },
+  "cavan-sullivan": {
+    "id": "sullivan_c",
+    "photo": "players/cavan-sullivan.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1630736/cavan-sullivan"
+  },
+  "gio-reyna": {
+    "id": "reyna",
+    "photo": "players/gio-reyna.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1071179/giovanni-reyna"
+  },
+  "bryan-reynolds": {
+    "id": "reynolds_b",
+    "photo": "players/bryan-reynolds.png",
+    "fotmobUrl": "https://www.fotmob.com/players/991831/bryan-reynolds"
+  },
+  "luca-bombino": {
+    "id": "luca-bombino",
+    "photo": "players/luca-bombino.png",
+    "fotmobUrl": null
+  },
+  "kristoffer-lund": {
+    "id": "kristoffer-lund",
+    "photo": "players/kristoffer-lund.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1235086/kristoffer-lund"
+  },
+  "yunus-musah": {
+    "id": "musah",
+    "photo": "players/yunus-musah.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1137272/yunus-musah"
+  },
+  "justin-che": {
+    "id": "justin-che",
+    "photo": "players/justin-che.png",
+    "fotmobUrl": null
+  },
+  "francis-westfield": {
+    "id": "francis-westfield",
+    "photo": "players/francis-westfield.png",
+    "fotmobUrl": null
+  },
+  "cade-cowell": {
+    "id": "cade-cowell",
+    "photo": "players/cade-cowell.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1025942/cade-cowell"
+  },
+  "adri-mehmeti": {
+    "id": "adri-mehmeti",
+    "photo": "players/adri-mehmeti.png",
+    "fotmobUrl": null
+  },
+  "patrick-agyemang": {
+    "id": "agyemang",
+    "photo": "players/patrick-agyemang.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1439800/patrick-agyemang"
+  },
+  "george-campbell": {
+    "id": "campbell",
+    "photo": "players/george-campbell.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1047586/george-campbell"
+  },
+  "peyton-miller": {
+    "id": "peyton-miller",
+    "photo": "players/peyton-miller.png",
+    "fotmobUrl": null
+  },
+  "justin-ellis": {
+    "id": "justin-ellis",
+    "photo": "players/justin-ellis.png",
+    "fotmobUrl": null
+  },
+  "tanner-tessmann": {
+    "id": "tessmann",
+    "photo": "players/tanner-tessmann.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1057433/tanner-tessmann"
+  },
+  "jack-mcglynn": {
+    "id": "mcglynn",
+    "photo": "players/jack-mcglynn.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1171013/jack-mcglynn"
+  },
+  "john-tolkin": {
+    "id": "tolkin",
+    "photo": "players/john-tolkin.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1136403/john-tolkin"
+  },
+  "diego-luna": {
+    "id": "luna",
+    "photo": "players/diego-luna.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1252636/diego-luna"
+  },
+  "gianluca-busio": {
+    "id": "busio",
+    "photo": "players/gianluca-busio.png",
+    "fotmobUrl": "https://www.fotmob.com/players/924431/gianluca-busio"
+  },
+  "rokas-pukstas": {
+    "id": "rokas-pukstas",
+    "photo": "players/rokas-pukstas.png",
+    "fotmobUrl": null
+  },
+  "cameron-carter-vickers": {
+    "id": "carter_vickers",
+    "photo": "players/cameron-carter-vickers.png",
+    "fotmobUrl": "https://www.fotmob.com/players/643589/cameron-carter-vickers"
+  },
+  "patrick-schulte": {
+    "id": "schulte",
+    "photo": "players/patrick-schulte.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1083292/patrick-schulte"
+  },
+  "julian-hall": {
+    "id": "julian-hall",
+    "photo": "players/julian-hall.png",
+    "fotmobUrl": null
+  },
+  "niko-tsakiris": {
+    "id": "niko-tsakiris",
+    "photo": "players/niko-tsakiris.png",
+    "fotmobUrl": null
+  },
+  "josh-sargent": {
+    "id": "sargent",
+    "photo": "players/josh-sargent.png",
+    "fotmobUrl": "https://www.fotmob.com/players/848011/joshua-sargent"
+  },
+  "luca-de-la-torre": {
+    "id": "delatorre",
+    "photo": "players/luca-de-la-torre.png",
+    "fotmobUrl": "https://www.fotmob.com/players/780418/luca-de-la-torre"
+  },
+  "paxten-aaronson": {
+    "id": "aaronson_p",
+    "photo": "players/paxten-aaronson.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1171008/paxten-aaronson"
+  },
+  "beau-leroux": {
+    "id": "beau-leroux",
+    "photo": "players/beau-leroux.png",
+    "fotmobUrl": null
+  },
+  "james-sands": {
+    "id": "sands",
+    "photo": "players/james-sands.png",
+    "fotmobUrl": "https://www.fotmob.com/players/880095/james-sands"
+  },
+  "brooklyn-raines": {
+    "id": "brooklyn-raines",
+    "photo": "players/brooklyn-raines.png",
+    "fotmobUrl": null
+  },
+  "montrell-culbreath": {
+    "id": "montrell-culbreath",
+    "photo": "players/montrell-culbreath.png",
+    "fotmobUrl": null
+  },
+  "damion-downs": {
+    "id": "downs",
+    "photo": "players/damion-downs.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1363536/damion-downs"
+  },
+  "cole-campbell": {
+    "id": "cole-campbell",
+    "photo": "players/cole-campbell.png",
+    "fotmobUrl": null
+  },
+  "zavier-gozo": {
+    "id": "gozo",
+    "photo": "players/zavier-gozo.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1455818/zavier-gozo"
+  },
+  "caleb-wiley": {
+    "id": "wiley",
+    "photo": "players/caleb-wiley.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1170744/caleb-wiley"
+  },
+  "duran-ferree": {
+    "id": "duran-ferree",
+    "photo": "players/duran-ferree.png",
+    "fotmobUrl": null
+  },
+  "kevin-paredes": {
+    "id": "paredes",
+    "photo": "players/kevin-paredes.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1136099/kevin-paredes"
+  },
+  "benjamin-cremaschi": {
+    "id": "cremaschi",
+    "photo": "players/benjamin-cremaschi.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1354177/benjamin-cremaschi"
+  },
+  "mathis-albert": {
+    "id": "mathis-albert",
+    "photo": "players/mathis-albert.png",
+    "fotmobUrl": null
+  },
+  "michael-bresser": {
+    "id": "michael-bresser",
+    "photo": "players/michael-bresser.jpg",
+    "fotmobUrl": null
+  },
+  "jackson-hopkins": {
+    "id": "jackson-hopkins",
+    "photo": "players/jackson-hopkins.png",
+    "fotmobUrl": null
+  },
+  "diego-kochen": {
+    "id": "kochen",
+    "photo": "players/diego-kochen.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1529648/diego-kochen"
+  },
+  "cooper-sanchez": {
+    "id": "cooper-sanchez",
+    "photo": "players/cooper-sanchez.png",
+    "fotmobUrl": null
+  },
+  "roman-celentano": {
+    "id": "celentano",
+    "photo": "players/roman-celentano.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1337962/roman-celentano"
+  },
+  "gabriel-slonina": {
+    "id": "slonina",
+    "photo": "players/gabriel-slonina.png",
+    "fotmobUrl": "https://www.fotmob.com/players/1031220/gabriel-slonina"
+  },
+  "leonard-prescott": {
+    "id": "leonard-prescott",
+    "photo": "players/leonard-prescott.png",
+    "fotmobUrl": null
+  },
+  "austyn-jones": {
+    "id": "austyn-jones",
+    "photo": "players/austyn-jones.png",
+    "fotmobUrl": null
+  },
+  "manu-romero": {
+    "id": "manu-romero",
+    "photo": "players/manu-romero.jpg",
+    "fotmobUrl": null
+  },
+  "tyler-meiser": {
+    "id": "tyler-meiser",
+    "photo": "players/tyler-meiser.png",
+    "fotmobUrl": null
+  }
+}
